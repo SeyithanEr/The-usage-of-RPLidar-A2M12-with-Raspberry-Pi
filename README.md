@@ -73,4 +73,11 @@ touch data.txt
 *If you have an RPLidar A2M12, this command will work, but if you have a different version of RPLidar, change the "256000" number according to the baud rate of your Lidar.
 
 
-Then simply type y in the terminal. This is a fine detail to ensure that the received data is saved to the data.txt file. To stop the rotation of the RPlidar, simply press the "enter" key without typing anything.
+Then simply type y in the terminal. This is a fine detail to ensure that the received data is saved to the data.txt file. To stop the rotation of the RPlidar, simply press the "enter" key without typing anything.    
+
+## Parts
+
+The tools I used for the project:
+| --- | --- |
+|RPLidar A2M12|https://tls.tc/Litb6| 
+|Raspberry Pi 4 Model B|https://tls.tc/UP2cV |
