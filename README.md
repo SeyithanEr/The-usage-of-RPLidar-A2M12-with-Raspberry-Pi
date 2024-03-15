@@ -80,5 +80,5 @@ Then simply type y in the terminal. This is a fine detail to ensure that the rec
 The tools I used for the project:
 | Name | Link |
 | --- | ---|
-| RPLIDAR | 1 | https://tls.tc/auHiB |
-| RASPBERRY Pİ | 1 | https://tls.tc/So5A1 |
+| RPLIDAR | https://tls.tc/auHiB |
+| RASPBERRY Pİ | https://tls.tc/So5A1 |
