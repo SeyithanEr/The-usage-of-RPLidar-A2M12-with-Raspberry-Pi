@@ -79,5 +79,5 @@ Then simply type y in the terminal. This is a fine detail to ensure that the rec
 
 The tools I used for the project:
 | --- | --- |
-| RPLidar A2M12|https://tls.tc/Litb6 | 
-| Raspberry Pi 4 Model B|https://tls.tc/UP2cV |
+| RPLidar A2M12 | https://tls.tc/Litb6 | 
+| Raspberry Pi 4 Model B | https://tls.tc/UP2cV |
