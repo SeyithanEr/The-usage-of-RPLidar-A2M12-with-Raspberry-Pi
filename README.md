@@ -78,6 +78,7 @@ Then simply type y in the terminal. This is a fine detail to ensure that the rec
 ## Parts
 
 The tools I used for the project:
-| --- | --- |
-| RPLidar A2M12 | https://tls.tc/Litb6 | 
-| Raspberry Pi 4 Model B | https://tls.tc/UP2cV |
+| Name | Link |
+| --- | ---|
+| RPLIDAR | 1 | https://tls.tc/auHiB |
+| RASPBERRY Pİ | 1 | https://tls.tc/So5A1 |
