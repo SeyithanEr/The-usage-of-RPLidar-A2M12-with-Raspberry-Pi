@@ -3,12 +3,15 @@ I ran the RPLidar A2M12 using Raspberry Pi 4 Model B. I did this on the Debian B
 
 # SDK DOWNLOAD
 Download the SDK directly from the GitHub repository:
+
 wget https://github.com/Slamtec/rplidar_sdk/archive/refs/heads/master.zip
 
 Extract the zip file:
+
 unzip master.zip
 
 Navigate to the downloaded directory:
+
 cd rplidar_sdk-master/sdk
 
 Compile the SDK:
